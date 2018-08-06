@@ -1,1 +1,1 @@
-# IHCS-Back-End-Config
+# Back-End-Config
